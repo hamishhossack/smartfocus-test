@@ -1,3 +1,4 @@
+![Smartfocus Logo](https://image.ibb.co/bBkUWe/Smartfocus.png)
 # Smartfocus Coding Challenge
 
 We would like a small application which takes a data source and produces a visual representation of that data to our users. The application can encompass a full-stack or front-end environment we really want you to express your skills and favourite libraries and(or) frameworks.
