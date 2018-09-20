@@ -1,26 +1,24 @@
 ![Smartfocus Logo](https://image.ibb.co/bBkUWe/Smartfocus.png)
 # Smartfocus Coding Challenge
-
 We would like a small application which takes a data source and produces a visual representation of that data to our users. The application can encompass a full-stack or front-end environment we really want you to express your skills and favourite libraries and(or) frameworks.
 
-The endpoints to be used are not defined and you can choose any section or unique idea to complete the task, be creative! Focus on what matters to you in an application.
+Using the provided [data source](https://developers.themoviedb.org/3/getting-started/introduction) to create the application, you can choose any endpoints you like, be creative! Focus on what matters to you in the project whilst keeping control of the requirements.
 
-## Key Points
+## Data Source
+[The Movie DB API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
 
-- Think about the important application parts to display your skills
-- Choose parts of the api which gives enough detail to be functional application
-- Display a range of technical skills to impress
+## Requirements
+- Create proof of concept application
+- Display your skills within the project, cover a range of technical skills to impress
+- Choose endpoints of the api which allow a functional application
 - Keep your work concise and clean
 - Use industry standard methods
 - Use modern or bleeding edge methodologies
 - Write understandable and maintainable code
-- Test your work
+- Provide tests for your work
 
 ## Time Limit
 60 to 90 mins
-
-## Data Source
-https://developers.themoviedb.org/3/getting-started/introduction
 
 ## Starter Ideas
 
